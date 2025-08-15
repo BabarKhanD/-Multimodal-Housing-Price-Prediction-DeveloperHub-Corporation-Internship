@@ -1,0 +1,11 @@
+# 1. Clone this repo
+git clone https://github.com/your-username/multimodal-housing-price-prediction-developerhub.git
+
+# 2. Navigate into the folder
+cd multimodal-housing-price-prediction-developerhub
+
+# 3. Install dependencies
+pip install -r requirements.txt
+
+# 4. Open the Jupyter Notebook
+jupyter notebook notebook/housing_price_multimodal.ipynb
